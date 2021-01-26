@@ -1,8 +1,3 @@
-<%-- 
-    Document   : ArithmeticCalculator.jsp
-    Created on : Sep 17, 2019, 11:17:32 AM
-    Author     : 797494
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
